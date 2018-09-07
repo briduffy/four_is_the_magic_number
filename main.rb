@@ -6,7 +6,6 @@ def menu
   puts "===================================="
   puts "     Four is the magic number.      "
   puts "===================================="
-  puts
   puts "        Enter any number.           "
   puts
   @usernumber = gets.strip.to_i
